@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/shergill
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shergill.su
+  * I am shergill (https://keybase.io/shergill) on keybase.
+  * I have a public key with fingerprint 623E 49E5 27D5 5D95 AA69  CE52 8956 DBE3 13DA 7380
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b82cda661574b3b69b41831fa1d41671b3602bcc4df43024f630cba94f99a9560a",
+            "fingerprint": "623e49e527d55d95aa69ce528956dbe313da7380",
+            "host": "keybase.io",
+            "key_id": "8956dbe313da7380",
+            "kid": "0101b82cda661574b3b69b41831fa1d41671b3602bcc4df43024f630cba94f99a9560a",
+            "uid": "ecf829a981a7b821532a93df80611c00",
+            "username": "shergill"
+        },
+        "service": {
+            "hostname": "shergill.su",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454270426,
+    "expire_in": 157680000,
+    "prev": "30b8e9f5b2a2ca5bb68f46e4129b3c3f8f539ba185cc1ac9fe96ce5158bb948e",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMM9AnicrVJrTBRXFN4FSuKGFRBoCy2ETrVaxO28d2axBd820ioVUQTczp25s4y7
+7q47syhQqhEkgD9oiFJCCGkJVRFaq0RoMAERtiklpm1MmwZ5VmyJUKi1BB9Ue4e0
+f5r+7P1zc879vu9859zTbw42mIyVWbduRw2px42DvbV+Q9ZnjqFiDHikQsxWjDnh
+0gVdElQ1u1ORMBuGEzgBOFKUBJYlGCsNKMDygCY4ipAFQqIJ1koAisVJIIq0JNMU
+TtIyS+EiEHha5nmBZ1hcwJIxWXE7oM/rU9wakmVJCtI8ZEirxDASzwgCy4so5BBc
+ApAiKEmwUhyOiPkeVWcgc0BQoUXxoBwK7Ev2/gP/P/v2L8lBUeZIlOQIwYpkCYYi
+BZ6SZA5nCULE9bp+FfrcwiGI0Go+9DkUlwsrScZQtkARoT5YvZN/ISyqH1G9Po/m
+ET0u9JCvaV6bztMKvTrwCAT2vyXsQHFLaIqIUAB9quJxYzYCIUVN0TUJmqFJK06T
+bDIGj3oVH7QrOoKxshyOjl4GFiBJCgcc5GUGkAIpCgwALCfTLKQJkgeUSMmczFA8
+EAiOEUVCEHkZ8iz6G4LhAOBpDmJ6U4fdHqRtRT4Fh96P4nALmt8HsZLrvbkhBqPJ
+EPpMkL5eBtOyiH+Wbt8f4U/3TG+IOBV0MzgvgLlcfYmF5jlrZCA9uLJoYbN59mHB
+medy2uoqml8drg68aVt2erw+r7vDEeivl+ZdZx9/1zd22zzj37X13YHhwRhhd+3p
+R1vz+Z3MlgOdl+v2rEx8cWTfnKkC2zbRRhl/uWxN+HXyelf9lpZX7vQ8yiwcf1CX
+/KQldscHQ2PjPRNaUVncRfnCVdkZfeban0pzxEFVaznrDK1Wi4sUNwVwfvuG1oKx
+mpTHGRNpI+60ds/i1bs3ldLW14ZTkpJA2HRDVqi/LHds3mAazslrb3o99kLT7uWD
+ow2ZTfGH12a+dPyG5Uru+YG1lYcuxa4JqW3t+XzNwJxzdlNijmXv1+UvrLqv7Mx0
+hiWF32i4FHRyMSImzpCae2x/28rzz7bH2a6lphTbuKpA5NHlEZs//HFmak6MtCfN
+Ne+trtke/8PCt/0pXVR0tmZIcF7JSCtviptZnN81ub6z8JOOjVPnvnlqazRXZCt3
+1f2CP1LM/D0t7F572OiX3d3rShvTjesONK0Oja/aZvl+cFN/whveg20rjH2u1V89
+CGBRMSfuVY09WZ8TXf/FgmX6/amJt6M+NaWnjtTmbbwT//PzZYGO7PJbk79lTJW2
+Ro8es3eGHyHeq/OwRkvCKr+xt8Jbff/lmpKPGvHJtx5Ss6d2FJVGVf10zpUc+s7H
+csqJoZyukBWJF/8CJ8S5Jg==
+=wi46
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shergill
+
+==================================================================
